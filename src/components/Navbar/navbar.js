@@ -2,7 +2,7 @@ import React from "react";
 import "./Navbar.css";
 
 function Navbar() {
-  var name = "<HC />";
+  var name = "Anushikha ";
 
   return (
     <div>
