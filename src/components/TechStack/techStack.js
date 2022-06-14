@@ -34,11 +34,11 @@ function TechStack() {
       iconAltProperty: "cppImage",
       iconName: "C++",
     },
-    {
+   /* {
       iconImage: firebase,
       iconAltProperty: "firebaseImage",
       iconName: "Firebase",
-    },
+    },*/
     {
       iconImage: github,
       iconAltProperty: "githubImage",
