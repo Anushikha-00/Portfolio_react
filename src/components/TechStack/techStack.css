@@ -1,0 +1,27 @@
+.techstack_container {
+    height: 80vh;
+}
+.techstack_title {
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+}
+.techstack_image_rows_container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 100%;
+}
+.techstack_image_container_row1 {
+    display: flex;
+    justify-content: space-evenly;
+}
+.techstack_image_element_container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.techstack_image_element_container > img {
+    width: 80px;
+}

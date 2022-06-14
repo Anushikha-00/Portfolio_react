@@ -1,0 +1,32 @@
+.about_container {
+    padding: 0 10%;
+    height: 88vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.about_text1 {
+    font-size: 22px;
+}
+.highlighted_text {
+    color: red;
+}
+.about_text2 {
+    font-size: 65px;
+    font-weight: 700;
+    margin: -15px 0;
+}
+.about_text3 {
+    font-size: 45px;
+}
+.about_description {
+    font-size: 20px;
+    line-height: 25px;
+}
+.about_button {
+    font-size: 20px;
+    padding: 8px 16px;
+    margin-top: 30px;
+    background-color: #080808;
+    color: red;
+}
