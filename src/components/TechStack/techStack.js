@@ -2,7 +2,7 @@ import React from "react";
 import "./TechStack.css";
 import react from "../../images/techStack/react.png";
 import cpp from "../../images/techStack/cpp.png";
-import firebase from "../../images/techStack/firebase.png";
+//import firebase from "../../images/techStack/firebase.png";
 import github from "../../images/techStack/github.png";
 import html from "../../images/techStack/html.png";
 import js from "../../images/techStack/js.png";
